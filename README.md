@@ -2,7 +2,7 @@
 Digital Outdoor Advertisement:
 
 
-Have Done this project in my B.Tech 3rd year 2nd Semester for Web technologies and Software Engineering Courses
+Have Done this project in my B.Tech 3rd year 1st Semester for Web technologies and Software Engineering Courses
 
 # How to run the project 
 Step - 1:Download all these files and put it in a folder named DigiAd

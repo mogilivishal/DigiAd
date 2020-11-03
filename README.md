@@ -31,3 +31,8 @@ Step - 12: User Login Credentials: Username: Goud ,Password: vishal
 
 
 Also checkout the Live Demo at https://digiad-vit.000webhostapp.com/
+
+### Demo of the DigiAd Web Application:
+
+![](Demo/DigiAd%20Demo.gif)
+
